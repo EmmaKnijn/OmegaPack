@@ -1,5 +1,5 @@
 list = {}
 
-list["omegapack"] = "github file here"
+list["helloworld"] = "github file here"
 
 return list
