@@ -1,5 +1,5 @@
 list = {}
 
-list["helloworld"] = "github file here"
+list["helloworld"] = "https://raw.githubusercontent.com/RubenHetKonijn/OmegaPack/master/packages/helloworld.lua"
 
 return list
